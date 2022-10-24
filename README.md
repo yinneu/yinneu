@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&fontAlignY=50&fontSize=30&animation=fadeIn&section=header&text=Yerim's%20GitHub%&ustomColorList=0,2,2,5,30)
-
+<!--Copyright © 2020 Ye-Chan Kang-->
 
 <h2> 소개 </h2>
 

@@ -19,14 +19,16 @@
 - C
 - Python
 - R
-- HTML
-- CSS
-- JavaScript
+- Fornt-End
+  - HTML, CSS, JAVASCRIPT
+- Back-End
+  - Mysql, Node.js, AWS
+
 ---
 <h2> :mortar_board:학력</h2>
 
-유봉여자고등학교 졸업 (2017.03 ~ 2020.02) </br>
-한림대학교 재학중 (2020.03 ~ )
+유봉여자고등학교 졸업 (2017.03 ~ 2020.02) 
+<br>한림대학교 재학중 (2020.03 ~ )
 
 ---
 <h2>  :running:활동 </h2>
@@ -54,6 +56,7 @@
   - 사용한 라이브러리 및 플랫폼 : Selenium, Teachable Machine
 
 - 바닐라JS로 포트폴리오 웹사이트 클론 코딩
+
 ---
 <h2>  :pushpin:앞으로의 활동 계획 </h2>
 

@@ -64,6 +64,17 @@
 
  <!-- - 바닐라JS로 포트폴리오 웹사이트 클론 코딩 -->
 
+- 가상화기반 사이버훈련 프레임워크
+  - 대시보드 Main UI 개발
+  - iframe 태그의 JSON 데이터를 참고해서 자동차 대쉬보드를 구현![image](https://github.com/yinneu/yinneu/assets/99879845/860ab8cd-f71a-4a53-90fc-6711f56edb2b)
+  - 참고
+  - 구현된 웹 페이지가 iframe 태그로 다른 웹에 포함될 예정임.
+  - frame 태그의 JSON 데이터가 실시간 (예: 1초당 한번) 으로 변함. 
+     해당 데이의 값을 실시간으로 반영할 수 있어야 함
+  ![image](https://github.com/yinneu/yinneu/assets/99879845/3df018cd-8e11-4a07-9f6f-d6d2a1ce9e01)
+
+
+
 ---
 <h2>  :pushpin:앞으로의 활동 계획 </h2>
 

@@ -9,7 +9,7 @@
 - 소속 : 한림대학교 정보과학대학 소프트웨어학부 빅데이터/콘텐츠IT
 - Email : ty5724@naver.com
 - GitHub : <a href = "https://github.com/yinneu"> github.com/yinneu </a>
-- 취미 : 국내여행, 스포츠관람(농구,피겨,펜싱), 필름카메라, 사진 수집
+- 취미 : 여행, 스포츠관람(농구,피겨,펜싱), 필름카메라, 사진 수집
 
 ---
 
@@ -20,7 +20,7 @@
 - Python
 - R
 - Fornt-End
-  - HTML, CSS, JAVASCRIPT
+  - HTML, CSS, JAVASCRIPT, ejs
 - Back-End
   - Mysql, Node.js, AWS
   - Django
@@ -48,7 +48,7 @@
 - 2023 강원SW대학 SW페스티벌 성과발표회 우수팀 수상
 - 2023 한림 오픈소스 SW 해커톤 은상 수상
 - 제10회 대한민국 SW융합 해커톤 본선 강원특별차지도 대표 참가
-- 2023 SW인재 페스티벌 우수작품관 한림대학교 대표팀 참가
+- 2023 SW인재 페스티벌 우수작품관 한림대학교 대표팀
   
 ---
 <h2> :computer:프로젝트 </h2>
@@ -73,7 +73,12 @@
      해당 데이의 값을 실시간으로 반영할 수 있어야 함
   ![image](https://github.com/yinneu/yinneu/assets/99879845/3df018cd-8e11-4a07-9f6f-d6d2a1ce9e01)
 
+- 한림대학교 학술동아리 씨애랑 홈페이지
+  - C#
 
+- 한림대학교 감사운동
+  - 백엔드 담당
+  - 유지보수, 개발
 
 ---
 <h2>  :pushpin:앞으로의 활동 계획 </h2>

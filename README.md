@@ -13,7 +13,8 @@
 - GitHub : <a href = "https://github.com/yinneu"> github.com/yinneu </a>
 - 취미 : 여행, 스포츠관람(농구,피겨,펜싱), 필름카메라, 사진 수집
 
----
+<br>
+
 <h2> :wrench: Tech Stacks </h2>
 
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> <br>
@@ -25,7 +26,8 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
----
+<br>
+
 <h2>  :running:활동 </h2>
 
 <h4> 교내 활동 </h4>
@@ -53,8 +55,9 @@
 - 2023 강원SW대학 SW페스티벌 성과발표회 우수팀 수상
 - 2023 한림 오픈소스 SW 해커톤 은상 수상
 - 2023년 한국정보보호학회 동계학술대회 우수논문상 수상
-  
----
+
+<br>
+
 <h2> :computer:프로젝트 </h2>
 
 - 2022년도 랜덤 맛집 추천 웹사이트

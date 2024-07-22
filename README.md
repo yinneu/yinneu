@@ -9,9 +9,17 @@
 
 - 이름 : 연예림
 - 소속 : 한림대학교 정보과학대학 소프트웨어학부 빅데이터/콘텐츠IT 재학 (2020.03 ~)
+- 취미 : 여행, 스포츠관람(농구,피겨,펜싱), 필름카메라, 사진 수집
 - Email : ty5724@naver.com
 - GitHub : <a href = "https://github.com/yinneu"> github.com/yinneu </a>
-- 취미 : 여행, 스포츠관람(농구,피겨,펜싱), 필름카메라, 사진 수집
+
+<br>
+
+
+![Yerim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yinneu&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yinneu)](https://solved.ac/yinneu)
+
+
 
 <br>
 
@@ -26,7 +34,10 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
+
 <br>
+
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yinneu&layout=compact)-->
 
 <h2>  :running:활동 </h2>
 
@@ -48,6 +59,8 @@
 - 2023 강원SW대학 SW페스티벌 성과발표회 참가
 - 2023 SW인재 페스티벌 우수작품관 한림대학교 대표팀
 - 2023 제10회 대한민국 SW융합 해커톤 참가
+
+<br>
 
 <h2>:trophy:수상</h2>
   
@@ -104,6 +117,8 @@
        - 사이트 주 기능이 데이터 분석이므로 트래픽 데이터를 분석에 용이한 프레임워크로 django를 사용함.
        - 대용량 트래픽 데이터를 시각화하여 보여주기 위해 apatch echart 오픈소스를 통해 그래프 커스텀하여 나타냄.
        - ip별, 프로토콜별 데이터 등의 상세 테이터를 모션과, 마우스 hover를 통해 보여줄 수 있도록 함.
+       - 대용량 데이터로 인해 데이터 분석 및 시각화 시간이 길어짐. 이을 해결하기 위해 네트워크 기본 지식 단어 설명을 랜덤으로 보여주고, 진행도를 표시해줌. 
+
      
 <br>
 
@@ -118,7 +133,8 @@
 - 가상화기반 사이버훈련 프레임워크 (정보보안 연구실) [깃허브, 노션]
    - 자동차 대시보드 Main UI 개발
    - iframe 태그에서 실시간으로 변하는 JSON 데이터 해당 데이터의 값을 실시간으로 반영하여 움직이는 애니메이션 구현.
-   - 기술 스택: websocket, python, javascript
+   - 기술 스택: python, javascript, websocket
+   - 구현부분: 기존 연구원분들이 구현해놓은 코드를 수정하지 못하므로 상위 iframe에서의 태그 값을 받아오기 위해 websocket을 사용함 (더 추가하기)
      
 <br>
 

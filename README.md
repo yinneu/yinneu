@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&fontAlignY=50&fontSize=30&animation=blinking&section=header&text=Yerim's%20GitHub%&ustomColorList=0,2,2,5,30)
 <!--Copyright © 2020 Ye-Chan Kang-->
 
-<h2> :wave:소개 </h2>
 <br>
-<i>프론트엔드부터 시작하여 백엔드까지 웹 개발을 공부하고 있습니다.</i>
+<i>프론트엔드부터 시작하여 백엔드까지 웹 개발을 공부하고 있습니다. :wave:</i>
 <br>
 <br>
 
@@ -12,13 +11,6 @@
 - 취미 : 여행, 스포츠관람(농구,피겨,펜싱), 필름카메라, 사진 수집
 - Email : ty5724@naver.com
 - GitHub : <a href = "https://github.com/yinneu"> github.com/yinneu </a>
-
-<br>
-
-
-![Yerim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yinneu&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yinneu)](https://solved.ac/yinneu)
-
 
 
 <br>
@@ -39,11 +31,11 @@
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yinneu&layout=compact)-->
 
-<h2>  :running:활동 </h2>
+<h2>  :running:Activities </h2>
 
 <h4> 교내 활동 </h4>
 
--  한림대학교 소프트웨어학부 학술동아리 `C.愛.랑` </h4>
+-  한림대학교 소프트웨어학부 학술동아리 'C.愛.랑' </h4>
    -  활동기간: 2020.3 ~ 활동중 <br>
    - 활동내용 <br>
      - 2022년도 Sw week 동아리 전시회 웹 부분 참여(Random pick - 맛집 카드 추천)
@@ -51,10 +43,10 @@
      - 2022년도 씨애랑 하계 SW 워크샵 참여
       - 2022년도 씨애랑 30주년 기념행사 운영보조
       - 2023년도 씨애랑 재정국장
-  - 2023 소프트웨어학부 제 5대 콘텐츠IT 학생회 `Dream(드림)` 기획부원
+  - 2023 소프트웨어학부 제 5대 콘텐츠IT 학생회 'Dream(드림)' 기획부원
 
 
-<h4>외부 대회 및 교육</h4>
+<h4>외부 활동 및 대회</h4>
 
 - 2021 삼성멀티캠퍼스 파이썬DT입문교육 수료
 - 2022 ICPC 한국대학생 프로그래밍 대회 참가
@@ -73,10 +65,10 @@
 
 <br>
 
-<h2> :computer:프로젝트 </h2>
+<h2> :computer:Projects </h2>
 
-- 2022년도 랜덤 맛집 추천 웹사이트
-  - 카드 애니메이션을 통한 맛집 추천 사이트
+- 2022년도 **Random Pick**[<a href="https://github.com/yinneu/2022-SWExhibition-MasjibBoard">깃허브</a>]
+  - 카드 애니메이션을 통한 랜덤 맛집 추천 사이트
   - 기간 : 2022.09 ~ 2022.11
   - 기술스택: AWS(ec2), Node.js, Mysql, html, css, javascript, ejs, selenium
   - 역할: 맛집 데이터수집 및 백엔드 담당 및 프론트엔드 일부
@@ -86,7 +78,7 @@
    
 <br>
   
-- 2022년도 GANGWON_SPORT
+- 2022년도 **GANGWON_SPORT** [<a href="https://github.com/yinneu/Gangwon_Sports">깃허브</a>]
   - 분산 되어있는 강원도 스포츠 구단들을 취합하여 강원도 연고지 스포츠를 즐기고 싶은 사람들에게 구단 및 일정 정보 제공.
   - 기간: 오픈소스SW 수업 중 프로젝트 2022.05~?
   - 기술 스택: ejs, mongodb, html, css, javascript
@@ -99,17 +91,17 @@
 <br>
 
 
-- 2022년도 Ruple
+- 2022년도 **Ruple** [<a href="https://github.com/Junseo11/Rupi">깃허브</a>]
    - 22-2 vr/ar게임제작기초 수업 중 프로젝트로 Unity를 사용한 공포 생존 FPS 게임을 제작함.
    - 쫓아오는 슬랜더맨을 피해 텐트에서 총알과 열쇠를 찾아 모든 열쇠를 획득하는 게임
-  - 기간: ?
+  - 기간: 2022.11~2022.12
   - 기술스택: Unity, c#
   - 구현부분: 플레이어 움직임과 카메라, 총 발사 로직 구현 등
 
 <br>
 
 
-- 2023년 SIGNATURE [깃허브, 노션]
+- 2023년 **SIGNATURE** [<a href="https://github.com/yinneu/signature">깃허브</a>]
   - 기간: 2023.03 ~ 2023.07
   - 머신러닝 기반 네트워크 침입탐지 및 상황 분석 솔루션 프레임워크 구현
    - 사용자의 네트워크 트래픽 데이터를 수집할 수 있는 실행 파일을 제공하고, 해당 데이터를 기반으로 사용자의 트래픽을 분석함.
@@ -124,24 +116,24 @@
      
 <br>
 
-- 2023년도 C# 한림대학교 학술동아리 씨애랑 홈페이지
-   - 동아리원들의 활발한 개발 활동과 동아리 선배분들과의 소통을 위한 홈페이지
+- 2023년도 **C#** [<a href="https://github.com/yinneu/C-shop">깃허브</a>]
+   - 한림대학교 학술동아리 씨애랑 홈페이지로 동아리원들의 활발한 개발 활동과 동아리 선배분들과의 소통을 위한 홈페이지
    - 역할: 프론트엔드
    - 기술스택: javascript, html, css
    - 구현부분: 메인 동아리 소개 페이지, 프로젝트 등록 및 리스트 페이지 구현
      
 <br>
 
-- 가상화기반 사이버훈련 프레임워크 (정보보안 연구실) [깃허브, 노션]
+- **가상화기반 사이버훈련 프레임워크** (정보보안 연구실 의뢰) [<a href="https://github.com/yinneu/car_dashboard">깃허브</a>, <a href="https://harvest-typhoon-397.notion.site/e3f9442efe78455098a78341865085d7">노션</a>]
    - 자동차 대시보드 Main UI 개발
    - iframe 태그에서 실시간으로 변하는 JSON 데이터 해당 데이터의 값을 실시간으로 반영하여 움직이는 애니메이션 구현.
    - 기술 스택: python, javascript, websocket
-   - 구현부분: 기존 연구원분들이 구현해놓은 코드를 수정하지 못하므로 상위 iframe에서의 태그 값을 받아오기 위해 websocket을 사용함 (더 추가하기)
+   - 기존 연구원분들이 dash 라이브러리로 구현해놓은 코드를 수정하지 못함. 상위 iframe에서의 태그 값을 받아오기 위해 python-socketio를 사용하여 웹소켓으로 json 데이터를 받아와 처리함.
      
 <br>
 
-- 한림대학교 감사운동 앱
-  - 한림대학교에서 사용하는 어플리케이션으로 학생들이 감사일기 쓰기,
+- **한림대학교 감사운동 앱**
+  - 한림대학교의 감사운동 어플리케이션으로 학생들이 감사일기 쓰기 활동을 하는 앱
   - 기간: 2023.07 ~ 진행중   
    - 역할:백엔드 담당 (서버 유지보수, 개발)
    - 기술 스택: django, linux
@@ -150,4 +142,12 @@
       - 감사운동 학생별, 기수별 통계 기능 구현
      
 <br>
+
+## :stars: my stat
+<div align="center">
+
+![Yerim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yinneu&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yinneu)](https://solved.ac/yinneu)
+
+</div>
 

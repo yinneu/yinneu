@@ -69,40 +69,6 @@
 
 <h2> :computer:Projects </h2>
 
-- 2022년도 **Random Pick**[<a href="https://github.com/yinneu/2022-SWExhibition-MasjibBoard">깃허브</a>]
-  - 카드 애니메이션을 통한 랜덤 맛집 추천 사이트
-  - 기간 : 2022.09 ~ 2022.11
-  - 기술스택: AWS(ec2), Node.js, Mysql, html, css, javascript, ejs, selenium
-  - 역할: 맛집 데이터수집 및 백엔드 담당 및 프론트엔드 일부
-  - 구현부분
-    - 바닐라js로 마우스 휠을 사용한 카드 로테이션 애니메이션 구현함.
-    - 기존 네이버 api로 얻기 힘든 가게 상세 정보 및 이미지를 selenium 크롤링를 사용하여 정보 취합함.
-   
-<br>
-  
-- 2022년도 **GANGWON_SPORT** [<a href="https://github.com/yinneu/Gangwon_Sports">깃허브</a>]
-  - 분산 되어있는 강원도 스포츠 구단들을 취합하여 강원도 연고지 스포츠를 즐기고 싶은 사람들에게 구단 및 일정 정보 제공.
-  - 기간: 오픈소스SW 수업 중 프로젝트 2022.05~?
-  - 기술 스택: ejs, mongodb, html, css, javascript
-  - 역할: 백엔드
-  - 구현부분
-       - mongodb를 사용한 데이터베이스 연결.
-       - 기존 html 코드를 ejs으로 일부 리팩토링하여 각 기능들을 모듈화함.
-       - 디자인 수정 및 코드 수정
-   
-<br>
-
-
-- 2022년도 **Ruple** [<a href="https://github.com/Junseo11/Rupi">깃허브</a>]
-   - 22-2 vr/ar게임제작기초 수업 중 프로젝트로 Unity를 사용한 공포 생존 FPS 게임을 제작함.
-   - 쫓아오는 슬랜더맨을 피해 텐트에서 총알과 열쇠를 찾아 모든 열쇠를 획득하는 게임
-  - 기간: 2022.11~2022.12
-  - 기술스택: Unity, c#
-  - 구현부분: 플레이어 움직임과 카메라, 총 발사 로직 구현 등
-
-<br>
-
-
 - 2023년 **SIGNATURE** [<a href="https://github.com/yinneu/signature">깃허브</a>]
   - 기간: 2023.03 ~ 2023.07
   - 머신러닝 기반 네트워크 침입탐지 및 상황 분석 솔루션 프레임워크 구현
@@ -142,7 +108,40 @@
   - 구현 및 활동부분
       - 감시일기 sns api 구현
       - 감사운동 학생별, 기수별 통계 기능 구현
-     
+
+<br>
+
+- 2022년도 **Random Pick**[<a href="https://github.com/yinneu/2022-SWExhibition-MasjibBoard">깃허브</a>]
+  - 카드 애니메이션을 통한 랜덤 맛집 추천 사이트
+  - 기간 : 2022.09 ~ 2022.11
+  - 기술스택: AWS(ec2), Node.js, Mysql, html, css, javascript, ejs, selenium
+  - 역할: 맛집 데이터수집 및 백엔드 담당 및 프론트엔드 일부
+  - 구현부분
+    - 바닐라js로 마우스 휠을 사용한 카드 로테이션 애니메이션 구현함.
+    - 기존 네이버 api로 얻기 힘든 가게 상세 정보 및 이미지를 selenium 크롤링를 사용하여 정보 취합함.
+   
+<br>
+  
+- 2022년도 **GANGWON_SPORT** [<a href="https://github.com/yinneu/Gangwon_Sports">깃허브</a>]
+  - 분산 되어있는 강원도 스포츠 구단들을 취합하여 강원도 연고지 스포츠를 즐기고 싶은 사람들에게 구단 및 일정 정보 제공.
+  - 기간: 오픈소스SW 수업 중 프로젝트 2022.05~?
+  - 기술 스택: ejs, mongodb, html, css, javascript
+  - 역할: 백엔드
+  - 구현부분
+       - mongodb를 사용한 데이터베이스 연결.
+       - 기존 html 코드를 ejs으로 일부 리팩토링하여 각 기능들을 모듈화함.
+       - 디자인 수정 및 코드 수정
+   
+<br>
+
+
+- 2022년도 **Ruple** [<a href="https://github.com/Junseo11/Rupi">깃허브</a>]
+   - 22-2 vr/ar게임제작기초 수업 중 프로젝트로 Unity를 사용한 공포 생존 FPS 게임을 제작함.
+   - 쫓아오는 슬랜더맨을 피해 텐트에서 총알과 열쇠를 찾아 모든 열쇠를 획득하는 게임
+  - 기간: 2022.11~2022.12
+  - 기술스택: Unity, c#
+  - 구현부분: 플레이어 움직임과 카메라, 총 발사 로직 구현 등
+
 <br>
 
 ## :stars: my stat

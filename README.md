@@ -69,22 +69,34 @@
 
 <h2> :computer:Projects </h2>
 
-- 2023년 **SIGNATURE** [<a href="https://github.com/yinneu/signature">깃허브</a>]
-  - 기간: 2023.03 ~ 2023.07
-  - 머신러닝 기반 네트워크 침입탐지 및 상황 분석 솔루션 프레임워크 구현
+- **한림대학교 감사운동 어플리케이션**
+  - 기간: 2023.07 ~ 진행중  
+  - 한림대학교의 감사운동 어플리케이션으로 학생들이 감사일기 쓰기 활동을 하는 앱 
+  - 역할:백엔드 담당 (서버 유지보수, 개발)
+  - 기술 스택: django, linux
+  - 구현 및 활동부분
+      - 감사일기 SNS API 구현
+      - 감사운동 학생별, 기수별 통계 기능 구현
+      - 관리자 페이지 관리 및 기능
+      - seliunx 등 서버 관련 이슈 해결 등
+<br>
+
+- **SIGNATURE** [<a href="https://github.com/yinneu/signature">깃허브</a>]
+   - 기간: 2023.03 ~ 2023.07
+   - 머신러닝 기반 네트워크 침입탐지 및 상황 분석 솔루션 프레임워크 구현
    - 사용자의 네트워크 트래픽 데이터를 수집할 수 있는 실행 파일을 제공하고, 해당 데이터를 기반으로 사용자의 트래픽을 분석함.
    - 담당: 프론트엔드, 백엔드
-   - 기술 스택: django,mysql, javascript, html, css, pandas, apatch echart, goorm
+   - 기술 스택: django, mysql, javascript, html, css, pandas, apatch echart, goorm
    - 구현부분
        - 사이트 주 기능이 데이터 분석이므로 트래픽 데이터를 분석에 용이한 프레임워크로 django를 사용함.
        - 대용량 트래픽 데이터를 시각화하여 보여주기 위해 apatch echart 오픈소스를 통해 그래프 커스텀하여 나타냄.
        - ip별, 프로토콜별 데이터 등의 상세 테이터를 모션과, 마우스 hover를 통해 보여줄 수 있도록 함.
        - 대용량 데이터로 인해 데이터 분석 및 시각화 시간이 길어짐. 이을 해결하기 위해 네트워크 기본 지식 단어 설명을 랜덤으로 보여주고, 진행도를 표시해줌. 
-
      
 <br>
 
-- 2023년도 **C#** [<a href="https://github.com/yinneu/C-shop">깃허브</a>]
+- **C#** [<a href="https://github.com/yinneu/C-shop">깃허브</a>]
+   - 기간: 2023.07~2023.11
    - 한림대학교 학술동아리 씨애랑 홈페이지로 동아리원들의 활발한 개발 활동과 동아리 선배분들과의 소통을 위한 홈페이지
    - 역할: 프론트엔드
    - 기술스택: javascript, html, css
@@ -94,24 +106,13 @@
 
 - **가상화기반 사이버훈련 프레임워크** (정보보안 연구실 의뢰) [<a href="https://github.com/yinneu/car_dashboard">깃허브</a>, <a href="https://harvest-typhoon-397.notion.site/e3f9442efe78455098a78341865085d7">노션</a>]
    - 자동차 대시보드 Main UI 개발
-   - iframe 태그에서 실시간으로 변하는 JSON 데이터 해당 데이터의 값을 실시간으로 반영하여 움직이는 애니메이션 구현.
-   - 기술 스택: python, javascript, websocket
-   - 기존 연구원분들이 dash 라이브러리로 구현해놓은 코드를 수정하지 못함. 상위 iframe에서의 태그 값을 받아오기 위해 python-socketio를 사용하여 웹소켓으로 json 데이터를 받아와 처리함.
+   - iframe 태그에서 실시간으로 변하는 JSON 데이터를 실시간으로 반영하여 움직이는 애니메이션 구현.
+   - 기술 스택: python, javascript, websocket, dash, flask
+   <!---  기존 연구원분들이 dash 라이브러리로 구현해놓은 코드를 수정하지 못함.  상위 iframe에서의 태그 값을 받아오기 위해 python-socketio를 사용하여 웹소켓으로 json 데이터를 받아와 처리함. -->
      
 <br>
 
-- **한림대학교 감사운동 앱**
-  - 한림대학교의 감사운동 어플리케이션으로 학생들이 감사일기 쓰기 활동을 하는 앱
-  - 기간: 2023.07 ~ 진행중   
-   - 역할:백엔드 담당 (서버 유지보수, 개발)
-   - 기술 스택: django, linux
-  - 구현 및 활동부분
-      - 감시일기 sns api 구현
-      - 감사운동 학생별, 기수별 통계 기능 구현
-
-<br>
-
-- 2022년도 **Random Pick**[<a href="https://github.com/yinneu/2022-SWExhibition-MasjibBoard">깃허브</a>]
+- **Random Pick**[<a href="https://github.com/yinneu/2022-SWExhibition-MasjibBoard">깃허브</a>]
   - 카드 애니메이션을 통한 랜덤 맛집 추천 사이트
   - 기간 : 2022.09 ~ 2022.11
   - 기술스택: AWS(ec2), Node.js, Mysql, html, css, javascript, ejs, selenium
@@ -122,9 +123,9 @@
    
 <br>
   
-- 2022년도 **GANGWON_SPORT** [<a href="https://github.com/yinneu/Gangwon_Sports">깃허브</a>]
+- **GANGWON_SPORT** [<a href="https://github.com/yinneu/Gangwon_Sports">깃허브</a>]
   - 분산 되어있는 강원도 스포츠 구단들을 취합하여 강원도 연고지 스포츠를 즐기고 싶은 사람들에게 구단 및 일정 정보 제공.
-  - 기간: 오픈소스SW 수업 중 프로젝트 2022.05~?
+  - 기간: 오픈소스SW 수업 중 프로젝트 2022.05~ 22.05
   - 기술 스택: ejs, mongodb, html, css, javascript
   - 역할: 백엔드
   - 구현부분
@@ -134,13 +135,12 @@
    
 <br>
 
-
-- 2022년도 **Ruple** [<a href="https://github.com/Junseo11/Rupi">깃허브</a>]
+-  **Ruple** [<a href="https://github.com/Junseo11/Rupi">깃허브</a>]
+   - 기간: 2022.11~2022.12
    - 22-2 vr/ar게임제작기초 수업 중 프로젝트로 Unity를 사용한 공포 생존 FPS 게임을 제작함.
    - 쫓아오는 슬랜더맨을 피해 텐트에서 총알과 열쇠를 찾아 모든 열쇠를 획득하는 게임
-  - 기간: 2022.11~2022.12
   - 기술스택: Unity, c#
-  - 구현부분: 플레이어 움직임과 카메라, 총 발사 로직 구현 등
+  - 구현부분: 플레이어 움직임과 카메라, 총 발사 애니메이션 등의 로직 구현
 
 <br>
 

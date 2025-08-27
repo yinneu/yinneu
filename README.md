@@ -7,7 +7,6 @@
 <br>
 
 - 이름 : 연예림
-- 소속 : 한림대학교 정보과학대학 소프트웨어학부 빅데이터 전공/ 콘텐츠IT 복수전공
 - 취미 : 여행, 필름카메라, 사진 수집
 - Email : ty5724@naver.com
 - GitHub : <a href = "https://github.com/yinneu"> github.com/yinneu </a>
@@ -33,6 +32,10 @@
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yinneu&layout=compact)-->
 
 <h2>  :running: Activities </h2>
+
+<h4> 교육 </h4>
+- 2020.03~2025.02 한림대학교 정보과학대학 소프트웨어학부 빅데이터 전공/ 콘텐츠IT 복수전공
+- 2024.12~2025.07 코드잇 Spring Backend 교육
 
 <h4> 교내 활동 </h4>
 

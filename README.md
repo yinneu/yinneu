@@ -2,19 +2,17 @@
 <!--Copyright © 2020 Ye-Chan Kang-->
 
 <br>
-<i>프론트엔드부터 시작하여 백엔드까지 웹 개발을 공부하고 있습니다. :wave:</i>
+<i>프론트엔드부터 시작하여 백엔드 개발을 공부하고 있습니다. :wave:</i>
 <br>
 <br>
 
-- 이름 : 연예림
-- 취미 : 여행, 필름카메라, 사진 수집
-- Email : ty5724@naver.com
-- GitHub : <a href = "https://github.com/yinneu"> github.com/yinneu </a>
-
+<!--- Name: 연예림 -->
+<!--- Contact: ty5724@naver.com -->
+<!--- 취미 : 여행, 필름카메라, 사진 수집 -->
 
 <br>
 
-<h2> :wrench: Tech Stacks </h2>
+<h2>Tech Stacks </h2>
 
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> <br>
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=PYTHON&logoColor=white"/>
@@ -31,50 +29,54 @@
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yinneu&layout=compact)-->
 
-<h2>  :running: Activities </h2>
+<!--:running:-->
+<h2> Activities </h2>
 
 <h4> 교육 </h4>
 
-- 2020.03~2025.02 한림대학교 정보과학대학 소프트웨어학부 빅데이터 전공/ 콘텐츠IT 복수전공
-- 2024.12~2025.07 코드잇 Spring Backend 교육
+- 2020.03~2025.02 한림대학교 정보과학대학 소프트웨어학부 빅데이터 전공 / 콘텐츠IT 복수전공
+- 2024.12~2025.07 코드잇 Spring Backend 교육 수료
 
 <h4> 교내 활동 </h4>
 
-- 2020 신입생 몰입형 SW코딩캡프
+<!-- - 2020 신입생 몰입형 SW코딩캡프 -->
 - 2020 ~ 2023 한림대학교 소프트웨어학부 학술동아리 'C.愛.랑' </h4>
-   - 활동내용 <br>
-     - 2022년도 Sw week 동아리 전시회 웹 부분 참여(Random pick - 맛집 카드 추천)
-     -  2022년도 씨애랑 재정부장
-     - 2022년도 씨애랑 하계 SW 워크샵 참여
-      - 2022년도 씨애랑 30주년 기념행사 운영보조
-      - 2023년도 씨애랑 재정국장
-- 2022-2, 2023-1 HANMOCO(한림모여코딩) 활동 참여 및 우수팀 선정
+     - 2022~23년도 Sw week 동아리 전시회 참여
+     - 2022~23년도 씨애랑 재정부장
+     - 2022년도 씨애랑 30주년 기념행사 운영보조
+       <!-- 2022년도 씨애랑 하계 SW 워크샵 참여-->
+- 2022-2, 2023-1 HANMOCO(한림모여코딩) 활동 및 우수팀 선정
 - 2023 소프트웨어학부 제 5대 콘텐츠IT 학생회 'Dream(드림)' 기획부원
 <!-- - 2023-1 HANMOCO(한림모여코딩) 활동 참여 및 우수팀 선정 -->
 
 
 <h4>외부 활동 및 대회</h4>
 
-- 2021 삼성멀티캠퍼스 파이썬DT입문교육 수료
-- 2022 ACM-ICPC 대학생프로그래밍경시대회 예선 참가
-- 2023 강원SW대학 SW페스티벌 성과발표회 참가
+<!--- 2021 삼성멀티캠퍼스 파이썬DT입문교육 수료-->
+<!-- 2022 ACM-ICPC 대학생프로그래밍경시대회 예선 참가-->
+- 2023 강원SW대학 SW페스티벌 성과발표회 대표팀
 - 2023 SW인재 페스티벌 우수작품관 한림대학교 대표팀
-- 2023 제10회 대한민국 SW융합 해커톤 참가
+- 2023 제10회 대한민국 SW융합 해커톤
 
 <br>
 
-<h2>:trophy: 수상</h2>
+<!--::trophy: :-->
+<h2>수상</h2>
   
-- 2023-1학기 소프트웨어캡스톤디자인 경진대회 장려상 수상
-- 2023 강원 SW대학 SW페스티벌 성과발표회 우수팀 수상
-- 2023 한림 오픈소스SW 해커톤 은상 수상
-- 2023 한국정보보호학회 동계학술대회 우수논문상 수상
-- 2024 Hallym SW Week GitHub 이력서 콘테스트 해커톤 금상 수상
-- 2024 Hallym SW Week 아이디어 해커톤 은상 수상
+- 2023-1학기 소프트웨어캡스톤디자인 경진대회 장려상
+- 2023 강원 SW대학 SW페스티벌 성과발표회 우수팀
+- 2023 한국정보보호학회 동계학술대회 우수논문상
+- 2023 한림 오픈소스SW 해커톤 은상
+- 2024 Hallym SW Week GitHub 이력서 콘테스트 해커톤 금상
+- 2024 Hallym SW Week 아이디어 해커톤 은상
 
 <br>
 
-<h2> :computer: Projects </h2>
+<!--:computer: : :-->
+<h2>Projects </h2>
+
+- 
+
 
 - **한림대학교 감사운동**
   - 한림대학교의 감사운동 활동으로 학생들이 감사일기를 쓰는 어플리케이션
@@ -119,10 +121,10 @@
    - 기간: 2023.07~2023.11
    - 역할: 프론트엔드
    - 기술스택: javascript, html, css
-   - 구현부분: 메인 동아리 소개 페이지, 프로젝트 등록 및 리스트 페이지 구현
+   - 구현부분: 메인 동아리 소개 페이지, 프로젝트 페이지 구현
      
 <br>
-
+<!--
 - **Random Pick** [<a href="https://github.com/yinneu/2022-SWExhibition-MasjibBoard">깃허브</a>]
   - 카드 애니메이션을 통한 랜덤 맛집 추천 사이트
   - 기간 : 2022.09 ~ 2022.11
@@ -131,9 +133,10 @@
   - 구현부분
     - 바닐라js로 마우스 휠을 사용한 카드 로테이션 애니메이션 구현함.
     - 기존 네이버 api로 얻기 힘든 가게 상세 정보 및 이미지를 selenium 크롤링를 사용하여 정보 취합함.
-   
+-->   
 <br>
-  
+
+<!--
 - **GANGWON_SPORT** [<a href="https://github.com/yinneu/Gangwon_Sports">깃허브</a>]
   - 분산 되어있는 강원도 스포츠 구단들을 취합하여 강원도 연고지 스포츠를 즐기고 싶은 사람들에게 구단 및 일정 정보 제공.
   - 기간: 2022.05~ 22.05 (오픈소스SW 수업)
@@ -143,8 +146,7 @@
        - mongodb를 사용한 데이터베이스 연결.
        - 기존 html 코드를 ejs으로 리팩토링하여 각 기능들을 모듈화함.
        - 디자인 수정 및 코드 수정
-   
-<br>
+-->   
 
 -  **Ruple: Unity를 사용한 공포 생존 FPS 게임** [<a href="https://github.com/Junseo11/Rupi">깃허브</a>]
    - 22-2 vr/ar게임제작기초 수업 중 프로젝트로 Unity를 사용한 공포 생존 FPS 게임을 제작함.
@@ -155,7 +157,7 @@
 
 <br>
 
-## :stars: my stat
+## Stat
 <div align="center">
 
 ![Yerim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yinneu&show_icons=true&theme=radical) <br>

@@ -75,6 +75,20 @@
 <!--:computer: : :-->
 <h2>Projects </h2>
 
+- **Otboo (옷장을 부탁해)** [[깃허브](https://github.com/SB01-Team09/sb01-otboo-team09)]
+     - 개인 의상 공유 SNS 및  의상 추천 서비스
+     - 기간: 2025.06~2025.07
+     - 역할: 인증/인가, User 도메인 담당
+     - 기술 스택: Java, Spring Boot, Spring Security , PostgreSQL , AWS
+     - 구현 및 활동 부분
+          - Spiring Security를 사용한 인증/인가 구현
+              - JWT 기반 인증/인가
+              - OAuth 사용으로 Google, Kakao 계정을 연동
+          - AWS 배포 환경에서의 보안 위협 및 대응
+              - 배포 로그에서 비정상적 요청 패턴 탐지
+              - 동일 IP(81.177.101.45)에서 config 관련 URL에 대 무차별 요청 시도 확인
+              - VPC Network ACL을 통한 해당 IP 차단 적용
+
 
 - **한림대학교 감사운동**
   - 한림대학교의 감사운동 활동으로 학생들이 감사일기를 쓰는 어플리케이션

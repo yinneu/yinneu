@@ -14,13 +14,10 @@
 
 <h2>Tech Stacks </h2>
 
+<img src="https://img.shields.io/badge/JAVA-003648?style=for-the-badge&logo=JAVA&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/> <br>
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> <br>
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=PYTHON&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVA-003648?style=for-the-badge&logo=JAVA&logoColor=white"/> 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br>
-<img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=DJANGO&logoColor=white"/>
-<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MYSQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/NODE.JS-5FA04E?style=for-the-badge&logo=NODE.JS&logoColor=white"/> <br>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MYSQL&logoColor=white"/> <br>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
@@ -65,7 +62,7 @@
   
 - 2023-1학기 소프트웨어캡스톤디자인 경진대회 장려상
 - 2023 강원 SW대학 SW페스티벌 성과발표회 우수팀
-- 2023 한국정보보호학회 동계학술대회 우수논문상
+- 2023 한국정보보호학회 동계학술대회 우수 논문상
 - 2023 한림 오픈소스SW 해커톤 은상
 - 2024 Hallym SW Week GitHub 이력서 콘테스트 해커톤 금상
 - 2024 Hallym SW Week 아이디어 해커톤 은상

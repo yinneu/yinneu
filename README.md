@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&fontAlignY=50&fontSize=30&animation=blinking&section=header&text=Yerim's%20GitHub%&ustomColorList=0,2,2,5,30)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=100&fontAlignY=50&fontSize=30&animation=none&section=header&text=YERIM%&ustomColorList=0,2,2,5,30)
 <!--Copyright © 2020 Ye-Chan Kang-->
 
 <br>
@@ -72,22 +72,78 @@
 <!--:computer: : :-->
 <h2>Projects </h2>
 
+- **Jidogam (지도감)**
+     - 소외지역 활성화를 위한 gamification 기반 여행 가이드북 서비스
+     - 기간: 2025.09~구현중
+     - 구성: 백엔드 2, 프론트엔드 2
+     - 담당: 가이드북, 방문 도장, 장소, 지역 데이터3 제10회 대한민국 SW융합 해커톤
+
+<br>
+
+<!--::trophy: :-->
+<h2>수상</h2>
+  
+- 2023-1학기 소프트웨어캡스톤디자인 경진대회 장려상
+- 2023 강원 SW대학 SW페스티벌 성과발표회 우수팀
+- 2023 한국정보보호학회 동계학술대회 우수 논문상
+- 2023 한림 오픈소스SW 해커톤 은상
+- 2024 Hallym SW Week GitHub 이력서 콘테스트 해커톤 금상
+- 2024 Hallym SW Week 아이디어 해커톤 은상
+
+<br>
+
+<!--:computer: : :-->
+<h2>Projects </h2>
+
+- **Jidogam (지도감)**
+     - 소외지역 활성화를 위한 gamification 기반 여행 가이드북 서비스
+     - 기간: 2025.09~구현중
+     - 구성: 백엔드 2, 프론트엔드 2
+     - 담당: 가이드북, 방문 도장, 장소, 지역 데이터(OpenAPI) 등의 도메인
+     - 기술 스택: Java, Spring Boot, Spring Security, PostgreSQL, AWS
+
+<br>
+
 - **Otboo (옷장을 부탁해)** [[깃허브](https://github.com/SB01-Team09/sb01-otboo-team09)]
      - 개인 의상 공유 SNS 및  의상 추천 서비스
      - 기간: 2025.06~2025.07
      - 역할: 인증/인가, User 도메인 담당
-     - 기술 스택: Java, Spring Boot, Spring Security , PostgreSQL , AWS
+     - 기술 스택: Java, Spring Boot, Spring Security, PostgreSQL, AWS
      - 구현 및 활동 부분
           - Spiring Security를 사용한 인증/인가 구현
               - JWT 기반 인증/인가
               - OAuth 사용으로 Google, Kakao 계정을 연동
           - AWS 배포 환경에서의 보안 위협 및 대응
               - 배포 로그에서 비정상적 요청 패턴 탐지
-              - 동일 IP(81.177.101.45)에서 config 관련 URL에 대 무차별 요청 시도 확인
+              - 동일 IP에서 config 관련 URL에 대 무차별 요청 공 시도 확인
               - VPC Network ACL을 통한 해당 IP 차단 적용
 
+<br>
 
-- **한림대학교 감사운동**
+- **Monew** [[깃허브](https://github.com/yinneu/sb01-monew-team2)]
+     - 키워드 구독을 활용한 사용자 맞춤형 뉴스 통합 플랫폼
+     - 기간: 2025.04~2025.05
+     - 역할: 백엔드 개발 담당
+     - 기술 스택: Java, Spring Boot, Spring Security, PostgreSQL, AWS
+     - 구현 및 활동 부분
+          - 뉴스 관심사 등록 및 관리
+              - LevenshteinDistance 활용한 유사 관심사 중복 방지 로직 개발
+              - 80% 유사도 기준 중복 관심사 자동 감지 및 방지
+          - API 문서화 자동화
+              - Swagger 기반 API 문서 자동화 파이프라인 구축
+          - 공통 예외 처리 구현
+              - 전역 핸들러 도입으로 응답 일관성 확보 및 에러 처리 표준화 완성
+          - TDD 기반 개발
+              - 테스트 주도 개발로 82% 코드 커버리지 달성
+          - 쿼리 최적화
+              - Fetch Join과 일괄 조회 방식으로 N+1 문제 해결
+              - SQL 쿼리 수 30% 감소, 응답 시간 31% 단축 (35ms→24ms)
+          - GitHub Actions 활용
+              - 이슈 템플릿 기반 브랜치 자동 생성 워크플로우 구현
+
+<br>
+
+- **한림대학교 감사운동**[[PlayStore](https://play.google.com/store/apps/details?id=com.hallym.hlth&hl=ko&gl=US)]
   - 한림대학교의 감사운동 활동으로 학생들이 감사일기를 쓰는 어플리케이션
   - 한 한기동안 평균 150명이 활동하며 하루에 250개 정도의 감사글이 업로드됨.
   - 기간: 2023.07 ~ 2024.12  

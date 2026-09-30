@@ -77,9 +77,9 @@
 <!--:computer: : :-->
 <h2>Projects </h2>
 
-- **Jidogam (지도감)**
+- **Jidogam (지도감)** [[깃허브](https://github.com/Re-Gion-Jidogam/Jidogam-back)]
      - 소외지역 활성화를 위한 gamification 기반 여행 가이드북 서비스
-     - 기간: 2025.09~구현중
+     - 기간: 2025.09~
      - 구성: 백엔드 2, 프론트엔드 2
      - 담당: 가이드북, 방문 도장, 장소, 지역 데이터(OpenAPI) 등의 도메인
      - 기술 스택: Java, Spring Boot, Spring Security, PostgreSQL, AWS
